@@ -1,9 +1,3 @@
-<%-- 
-    Document   : index
-    Created on : 08/04/2014, 09:49:08 AM
-    Author     : Jc Bartra
---%>
-
 <%@ page import="negocio.*,entidad.*"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 
