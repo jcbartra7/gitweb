@@ -5,7 +5,7 @@
     int deposito1=100;
     int deposito2=500;
     int giro=200;
-    int giro=400;
+    int giro2=400;
 
  String nombre="jhan Arly";
 String Ap_paterno="sanchez";
