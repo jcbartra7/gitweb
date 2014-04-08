@@ -6,10 +6,10 @@
     int deposito2=500;
     int giro=200;
 
- String nombre="jhan Arly";
-String Ap_paterno="sanchez";
-String Ap_materno="tarrillo";
-String dni="73472336";
+ String nombre="Carlomagno";
+String Ap_paterno="Bartra";
+String Ap_materno="Ramírez";
+String dni="70000395";
 String usuario="";
 String codigo="";
 String val="";
